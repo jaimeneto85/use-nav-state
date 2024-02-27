@@ -13,9 +13,27 @@
     "params"
   ],
   "author": "@jaimeneto85",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "react": "^17.0.0 || ^18.0.0"
+  },
+  "files": [
+    "index.ts",
+    "LICENSE",
+    "README.md"
+  ],
+  "exports": {
+    ".": {
+      "default": "./index.ts"
+    },
+    "./package.json": "./package.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaimeneto85/use-nav-state.git"
+  },
+  "engines": {
+    "node": ">=20.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.9",

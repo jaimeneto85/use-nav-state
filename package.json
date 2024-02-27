@@ -33,7 +33,7 @@
     "url": "https://github.com/jaimeneto85/use-nav-state.git"
   },
   "engines": {
-    "node": ">=20.4.0"
+    "node": ">=16"
   },
   "devDependencies": {
     "@babel/core": "^7.23.9",

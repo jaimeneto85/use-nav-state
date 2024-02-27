@@ -6,6 +6,14 @@ useNavState is a hook for react that extends useState for ReactJS.
 
 The motivation for this module was to do a simple state that interact with url and browser. With useNavState is updated, the values are sending to url params.
 
+## Instalation
+
+`npm i use-nav-state`
+
+or
+
+`yarn add use-nav-state`
+
 ## Usage
 
 ```javascript

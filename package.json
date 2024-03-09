@@ -1,8 +1,8 @@
 {
   "name": "use-nav-state",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "React State that update and it's updated by Query Params",
-  "main": "index.ts",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
